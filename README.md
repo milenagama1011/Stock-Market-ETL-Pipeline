@@ -57,5 +57,3 @@ https://stock-market-etl-pipeline-milena.streamlit.app/
 ├── stock_data.db
 ├── requirements.txt
 └── README.md
-
-Add Streamlit app deployment link to README
