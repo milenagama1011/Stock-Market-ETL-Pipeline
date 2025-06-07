@@ -1,0 +1,12 @@
+# Ignore cache and system files
+__pycache__/
+*.py[cod]
+*.DS_Store
+
+# Ignore environment & database
+.venv/
+.env
+stock_data.db
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/

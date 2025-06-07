@@ -1,0 +1,6 @@
+# Run ETL pipeline (price, RSI, SMA) on the 1st of every month at 10:00 AM
+0 10 1 * * /Users/milenagamadosreisfagundes/Stock\ Market\ ETL\ Pipeline/automate_etl_pipeline.sh
+
+# Run overview extraction on the 2nd of every month at 11:00 AM
+0 11 2 * * /Users/milenagamadosreisfagundes/Stock\ Market\ ETL\ Pipeline/automate_overview_only.sh
+
