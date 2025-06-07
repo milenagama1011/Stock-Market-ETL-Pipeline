@@ -1,10 +1,10 @@
-# 📊 Magnificent 7 Stock Dashboard
+# Magnificent 7 Stock Dashboard
 
 This project automates the extraction, transformation, storage, and visualization of stock market data from the **Magnificent 7** (AAPL, MSFT, GOOGL, AMZN, META, TSLA, NVDA). It uses Alpha Vantage’s API, Python-based data processing, SQLite for storage, and Streamlit for interactive dashboards.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Automated ETL Pipeline**: Fetches data via Alpha Vantage API and processes it into a local SQLite database.
 - **Cleaned, Joined Data**: Prepared datasets on price, RSI, and fundamentals.
@@ -18,7 +18,7 @@ This project automates the extraction, transformation, storage, and visualizatio
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - `Python`
 - `Streamlit`
@@ -29,7 +29,7 @@ This project automates the extraction, transformation, storage, and visualizatio
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 1. **Clone the repository**
    ```bash
@@ -38,7 +38,7 @@ This project automates the extraction, transformation, storage, and visualizatio
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ├── 01_AlphaVantage_Extraction.py
 ├── 02_Data_Cleaning_Preparation.py
 ├── 03_Join_Datasets_timeseries+RSI.py
