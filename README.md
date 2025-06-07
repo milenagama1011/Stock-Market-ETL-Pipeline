@@ -4,6 +4,12 @@ This project automates the extraction, transformation, storage, and visualizatio
 
 ---
 
+# Live Dashboard on Streamlit
+
+https://stock-market-etl-pipeline-milena.streamlit.app/
+
+---
+
 ## Features
 
 - **Automated ETL Pipeline**: Fetches data via Alpha Vantage API and processes it into a local SQLite database.
@@ -51,3 +57,5 @@ This project automates the extraction, transformation, storage, and visualizatio
 ├── stock_data.db
 ├── requirements.txt
 └── README.md
+
+Add Streamlit app deployment link to README
